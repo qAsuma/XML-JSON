@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<manga>
+    <manga>
+        <author>FUJIMOTO Tatsuki</author>
+        <title>Chainsaw Man</title>
+        <chapters>105</chapters>
+        <info>some text</info>
+        <commentaries>some commentaries</commentaries>
+        <relise_date>2018</relise_date>
+    </manga>
+    <manga>
+        <author>GOTOUGE Koyoharu</author>
+        <title>Kimetsu no Yaiba</title>
+        <chapters>235</chapters>
+        <info>some text</info>
+        <commentaries>some commentaries</commentaries>
+        <relise_date>2016</relise_date>
+    </manga>
+</manga>

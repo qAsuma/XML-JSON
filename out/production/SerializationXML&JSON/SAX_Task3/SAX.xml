@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<City size="big">Kyiv
+    <Street>Улица
+        <House>Номер_дома</House>
+    </Street>
+</City>
